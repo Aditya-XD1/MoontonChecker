@@ -47,7 +47,6 @@ fb : https://www.facebook.com/aesthetic.aogiri
 ▇▇        Termux Data Clear EveryDay    ▇▇
 ▇▇         Facebook Id -- aesthetic     ▇▇
  ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇
-#
 ##########################################
 
   def auto_upper(self, string):
