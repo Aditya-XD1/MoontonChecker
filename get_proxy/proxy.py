@@ -8,11 +8,11 @@
 ############################################################
 # Name           : Moonton Account Checker                 #
 # File           : proxy.py                              #
-# Author         : DulLah                                  #
-# Github         : https://github.com/dz-id                #
-# Facebook       : https://www.facebook.com/dulahz         #
-# Telegram       : https://t.me/DulLah                     #
-# Python version : 3.7++                                   #
+# Author         : Adit XD                               #
+# Github         : https://github.com/Aditya-XD1         #
+# Facebook       :                                       #
+# Telegram       :                      #
+# Python version :                                  #
 ############################################################
 
 import requests, os, shutil
